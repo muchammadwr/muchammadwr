@@ -91,10 +91,12 @@
 
 <!-- Projects -->
 
-## tank Featured Projects
+## 🛠 Projects
 
 <table>
 <tr>
+
+<!-- Bike Sharing -->
 <td width="33%">
 <img src="./images/bike_sharing.jpg" width="100%">
 
@@ -106,6 +108,7 @@ Analyzing bike rental patterns and customer behavior.
 
 </td>
 
+<!-- Finance Analytics -->
 <td width="33%">
 
 <img src="./images/finance.jpg" width="100%">
@@ -118,6 +121,7 @@ Analyzing financial performance and profitability.
 
 </td>
 
+<!-- Starbucks Sales -->
 <td width="33%">
 
 <img src="./images/marketing.jpg" width="100%">
@@ -130,9 +134,51 @@ Discovering customer behavior and purchasing patterns.
 
 </td>
 </tr>
+
+<tr>
+<!-- Sentiment Analytics -->
+<td width="33%">
+
+<img src="./images/gojek.jpg" width="100%">
+
+**Gojek Sentiment Analytic Reviews**
+
+Analyzing sentiment from textual data.
+
+**[Show More →](https://github.com/muchammadwr/sentiment_analytics)**
+
+</td>
+
+<!-- Image Classifications -->
+<td width="33%">
+
+<img src="./images/mnist.png" width="100%">
+
+**MNIST Image Classifications**
+
+Classifying handwritten digits using machine learning.
+
+**[Show More →](https://github.com/muchammadwr/image_classifications)**
+
+</td>
+
+<!-- HR Analytics -->
+<td width="33%">
+
+<img src="./images/human_resources.jpeg" width="100%">
+
+**Human Resources Case Studies**
+
+Analyzing employee data for insights.
+
+**[Show More →](https://github.com/muchammadwr/Menyelesaikan-Permasalahan-Human-Resources)**
+
+</td>
+</tr>
+
 </table>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align=center>
 
@@ -141,7 +187,6 @@ Discovering customer behavior and purchasing patterns.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muchammadwr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
 
 ## 🎯 Play games with me
 
@@ -156,7 +201,8 @@ Discovering customer behavior and purchasing patterns.
 
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
+
 <div align=center>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
