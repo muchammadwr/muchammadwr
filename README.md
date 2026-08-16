@@ -2,11 +2,11 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Muchammad Wildan Alkautsar</h1>
+# Hi 👋, I'm Muchammad Wildan Alkautsar
 
-<h3 align="left">Data Scientist passionate about transforming data into actionable insights through analytics, machine learning, and data-driven solutions.</h3>
+#### Data Scientist passionate about transforming data into actionable insights through analytics, machine learning, and data-driven solutions.
 
-- 🔭 I’m currently working on **Terbuka of University**
+- 🔭 I’m currently working on **Asah by Dicoding** Data Science Specialist
 - 🌱 I’m currently learning **Artificial Intelligents / Machine Learning**
 - 👯 I’m looking to collaborate on **Data Analytics**
 - 💬 Ask me about **Business problems and I'll found the solutions**
@@ -15,7 +15,9 @@
 - ⚡ Fun fact **Do first. Perfect later. Learn, iterate, improve.**
 
 <!-- Social Medias -->
-<h2 align="left">Connect with me:</h2>
+
+## 🔗 Connect with me:
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/muchammadwr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -38,7 +40,9 @@
 </div>
 
 <!-- Languages and Tools -->
-<h2 align="left">Languages and Tools:</h2>
+
+## ⚙ Languages and Tools:
+
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
@@ -86,55 +90,75 @@
 </div>
 
 <!-- Projects -->
-<h2 align="left">Featured Projects</h2>
+
+## tank Featured Projects
+
 <table>
 <tr>
 <td width="33%">
-<img src="./assets/project-1.png" width="100%">
+<img src="./images/bike_sharing.jpg" width="100%">
 
 **Bike Sharing Analytics**
 
 Analyzing bike rental patterns and customer behavior.
 
-**[Show More →](https://github.com/yourusername/project-1)**
+**[Show More →](https://github.com/muchammadwr/Bike-Sharing-Analytics)**
 
 </td>
 
 <td width="33%">
 
-<img src="./assets/project-2.png" width="100%">
+<img src="./images/finance.jpg" width="100%">
 
 **Finance Analytics**
 
 Analyzing financial performance and profitability.
 
-**[Show More →](https://github.com/yourusername/project-2)**
+**[Show More →](https://github.com/muchammadwr/finance-analytics)**
 
 </td>
 
 <td width="33%">
 
-<img src="./assets/project-3.png" width="100%">
+<img src="./images/marketing.jpg" width="100%">
 
-**Customer Analytics**
+**Starbucks Sales Analytics**
 
 Discovering customer behavior and purchasing patterns.
 
-**[Show More →](https://github.com/yourusername/project-3)**
+**[Show More →](https://github.com/muchammadwr/Starbucks-Sales-Analysis)**
 
 </td>
 </tr>
 </table>
 
-<!-- Stats -->
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/muchammadwr/muchammadwr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/muchammadwr/muchammadwr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+# 📊 GitHub Stats:
+
+<div align=center>
+
+![](https://github-readme-stats.shion.dev/api?username=muchammadwr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=muchammadwr&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muchammadwr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
+
+## 🎯 Play games with me
+
 <!-- Arcade Games -->
+<div align=center>
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muchammadwr/muchammadwr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muchammadwr/muchammadwr/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muchammadwr/muchammadwr/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+</div>
+
+### ✍️ Random Dev Quote
+<div align=center>
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+</div>
