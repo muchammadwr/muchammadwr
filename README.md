@@ -7,8 +7,8 @@
 #### Data Scientist passionate about transforming data into actionable insights through analytics, machine learning, and data-driven solutions.
 
 - 🔭 I’m currently working on **Asah by Dicoding** Data Science Specialist
-- 🌱 I’m currently learning **Artificial Intelligents / Machine Learning**
-- 👯 I’m looking to collaborate on **Data Analytics**
+- 🌱 I’m currently learning **Artificial Intelligents / Machine Learning Operation Systems**
+- 👯 I’m looking to collaborate on **Data Analytics/Machine Learning Engineer**
 - 💬 Ask me about **Business problems and I'll found the solutions**
 - 📫 How to reach me **muchammadwr@gmail.com**
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1f5hSnUd0f0VgddrokSDd3abAM7fpNoZWKEuoNm3YcpY/edit?usp=sharing)
