@@ -100,7 +100,7 @@
 <td width="33%">
 <img src="./images/bike_sharing.jpg" width="100%">
 
-**Bike Sharing Analytics**
+**Bike Sharing Demand Analytics**
 
 Analyzing bike rental patterns and customer behavior.
 
