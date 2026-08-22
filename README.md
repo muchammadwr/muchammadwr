@@ -124,13 +124,13 @@ Analyzing financial performance and profitability.
 <!-- Starbucks Sales -->
 <td width="33%">
 
-<img src="./images/marketing.jpg" width="100%">
+<img src="https://github.com/muchammadwr/analyzing-the-indonesian-supermarket-business/blob/main/images/dashboard.png?raw=true" width="100%">
 
-**Starbucks Sales Analytics**
+**Analyzing the Indonesian Supermarket Business**
 
 Discovering customer behavior and purchasing patterns.
 
-**[Show More →](https://github.com/muchammadwr/Starbucks-Sales-Analysis)**
+**[Show More →](https://github.com/muchammadwr/analyzing-the-indonesian-supermarket-business)**
 
 </td>
 </tr>
