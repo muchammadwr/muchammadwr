@@ -204,9 +204,7 @@ Analyzing employee data for insights.
 
 <div align=center>
 
-![](https://github-readme-stats.shion.dev/api?username=muchammadwr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=muchammadwr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muchammadwr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=muchammadwr&border_radius=10)
 
 </div>
 
