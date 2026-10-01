@@ -120,7 +120,7 @@
 
 <!-- Bike Sharing -->
 <td width="33%">
-<img src="./images/bike_sharing.jpg" width="100%">
+<img src="https://github.com/muchammadwr/bike-sharing-demand-analysis/blob/main/images/dashboard.png" width="100%">
 
 **Bike Sharing Demand Analytics**
 
