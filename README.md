@@ -171,17 +171,6 @@ Analyzing sentiment from textual data.
 
 </td>
 
-<!-- Image Classifications -->
-<td width="33%">
-
-<img src="./images/mnist.png" width="100%">
-
-**MNIST Image Classifications**
-
-Classifying handwritten digits using machine learning.
-
-**[Show More →](https://github.com/muchammadwr/image_classifications)**
-
 </td>
 
 <!-- HR Analytics -->
