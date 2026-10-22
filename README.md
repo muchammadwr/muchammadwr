@@ -191,7 +191,11 @@ Analyzing employee data for insights.
 
 ## 📊 GitHub Stats:
 
+<div align=center>
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=muchammadwr&border_radius=10)
+
+</div>
 
 ## 🎯 Play games with me
 
