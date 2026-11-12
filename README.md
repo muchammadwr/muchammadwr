@@ -86,6 +86,9 @@
   <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="30" alt="Google logo" />
 </div>
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=muchammadwr)
 
 ## 🎯 Play games with me
 
