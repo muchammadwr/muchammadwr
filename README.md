@@ -87,8 +87,11 @@
 </div>
 
 ## 📈 GitHub Stats
-
+<div align=center>
+  
 ![GitHub Stats](https://ghstats.dev/api/card?username=muchammadwr)
+
+</div>
 
 ## 🎯 Play games with me
 
