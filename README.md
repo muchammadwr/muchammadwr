@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Muchammad Wildan Alkautsar
 
-#### Data Scientist passionate about transforming data into actionable insights through analytics, machine learning, and data-driven solutions.
+#### Marketing Data Scientist passionate about transforming data into actionable insights through analytics, machine learning, and data-driven solutions in marketing.
 
 - 🔭 I’m currently working on **Asah by Dicoding** Data Science Specialist
 - 🌱 I’m currently learning **Artificial Intelligents/Machine Learning Operation Systems**
